@@ -6,8 +6,8 @@ This repository serves as a purpose of evaluating and comparing various knowledg
 # References
 | Model     | Paper    |
 |----------|---------------|
-| John     | Developer     |
-| Jane     | Designer      |
+| Bayesian Knowledge Tracing     | Developer     |
+| Deep Knowledge Tracing     | [Deep Knowledge Tracing](https://arxiv.org/abs/1506.05908)     |
 | Sam      | Data Scientist|
 
 
