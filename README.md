@@ -6,7 +6,7 @@ This repository serves as a purpose of evaluating and comparing various knowledg
 # References
 | Model     | Paper    |
 |----------|---------------|
-| Bayesian Knowledge Tracing     | [pyBKT: An Accessible Python Library of Bayesian Knowledge Tracing Models] (https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_237.pdf)    |
+| Bayesian Knowledge Tracing   | [pyBKT: An Accessible Python Library of Bayesian Knowledge Tracing Models](https://arxiv.org/abs/1506.05908)   |
 | Deep Knowledge Tracing     | [Deep Knowledge Tracing](https://arxiv.org/abs/1506.05908)     |
 | Sam      | Data Scientist|
 
