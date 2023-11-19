@@ -10,7 +10,7 @@ This repository serves as a purpose of evaluating and comparing various knowledg
 | Deep Knowledge Tracing     | [Deep Knowledge Tracing](https://arxiv.org/abs/1506.05908)     |
 | DKVMN      | [Dynamic Key-Value Memory Networks for Knowledge Tracing](https://arxiv.org/abs/1611.08108)|
 | SPARAF    | [Sparse Factor Analysis for Learning and Content Analytics](https://arxiv.org/abs/1303.5685)     |
-| Non-negative matrix factorization      | [Dynamic Key-Value Memory Networks for Knowledge Tracing](https://arxiv.org/abs/1611.08108)|
+| Non-negative matrix factorization with binary entries   | [Binary Matrix Factorization with Applications](https://ieeexplore.ieee.org/document/4470263)|
 
 
 
