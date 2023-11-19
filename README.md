@@ -3,5 +3,11 @@ This repository serves as a purpose of evaluating and comparing various knowledg
 
 # Dataset
 
+# References
+| Model     | Paper    |
+|----------|---------------|
+| John     | Developer     |
+| Jane     | Designer      |
+| Sam      | Data Scientist|
 
 
