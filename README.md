@@ -8,6 +8,7 @@ This repository serves as a purpose of evaluating and comparing various knowledg
 |----------|---------------|
 | Bayesian Knowledge Tracing   | [ pyBKT: An Accessible Python Library of Bayesian Knowledge Tracing Models ] (https://arxiv.org/abs/1506.05908)   |
 | Deep Knowledge Tracing     | [Deep Knowledge Tracing](https://arxiv.org/abs/1506.05908)     |
-| Sam      | Data Scientist|
+| Sam      | [Dynamic Key-Value Memory Networks for Knowledge Tracing](https://arxiv.org/abs/1611.08108)|
+
 
 
