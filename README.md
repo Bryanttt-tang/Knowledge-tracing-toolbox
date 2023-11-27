@@ -7,7 +7,7 @@ This repository serves as a purpose of evaluating and comparing various knowledg
 | [ASSISTments2009](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010?authuser=0)   |   |
 | [ASSISTments2015](https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data)     |      |
 | [Statics2011](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507)      | |
-| SPARAF    | [Sparse Factor Analysis for Learning and Content Analytics](https://arxiv.org/abs/1303.5685)     |
+| [KddCup2010](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)    |   |
 | [Synthetic-5](https://github.com/chrispiech/DeepKnowledgeTracing/tree/master/data/synthetic)  | |
 
 # References
